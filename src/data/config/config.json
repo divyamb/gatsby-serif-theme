@@ -6,7 +6,7 @@
         "mobile": "/images/logo/logo-mobile.svg",
         "desktop": "/images/logo/logo.svg",
         "desktop_height": "36px",
-        "alt": "Serif - A Gatsby Business Theme"
+        "alt": "Blank Paper Labs"
     },
     "homepage_meta_tags": {
         "meta_description": "Serif is a modern business theme for Gatsby. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated.",
@@ -16,8 +16,8 @@
         "meta_og_image": "https://raw.githubusercontent.com/JugglerX/hugo-gatsby-theme/master/images/tn.png",
         "meta_og_description": "Serif is a modern business theme for Gatsby. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated.",
         "meta_twitter_card": "summary",
-        "meta_twitter_site": "@zerostaticio",
-        "meta_twitter_creator": "@zerostaticio"
+        "meta_twitter_site": "@divyambalani",
+        "meta_twitter_creator": "@divyambalani"
     },
     "footer": {
         "copyright_text": "Copyright 2021",
