@@ -5,6 +5,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Hugo Business Theme.
+# A Blank Paper - Fill it with your ideas.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Blank Paper Labs will bring your ideas to life. Our commitment to you is building your project with the utmost care keeping longevity in mind.
